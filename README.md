@@ -1,7 +1,7 @@
 # express-mongo
 
 This is a boilerplate project using the following technologies:
-- [Express](http://expressjs.com/) for the restful API
+- [Express](http://expressjs.com/) for RESTful API
 - [MongoDB](https://www.mongodb.com/) for database
 
 ## Requirements
