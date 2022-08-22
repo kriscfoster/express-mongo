@@ -39,6 +39,7 @@ describe('GET /notes', () => {
             expect(body.length).to.equal(1);
             done();
           })
+        done();
       })
       .catch((err) => done(err));
   });
